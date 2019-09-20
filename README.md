@@ -35,7 +35,7 @@ The folder 'data' has all the datasets used, the folder Work notebooks has the w
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-Overall we intended to understand if countries are complying with the 14th SGD: Life Below Water. 
+Overall we intended to understand how climate event impact business, in particular energy companies.
 
 After the initial analysis of the data available other two hypothesis arose:
 1. What is the impact of drought in energy production
