@@ -4,11 +4,11 @@
 ## How will global warming impact business and companies?
 
 *By:
-Inês Garcia
+Inês Garcia  
 Sofia Sousa*
 
-*Data Squad #21
-Lisbon
+*Data Squad #21  
+Lisbon  
 September 2019*
 
 ## Content
@@ -49,7 +49,7 @@ After the initial analysis of the data available other two hypothesis arose:
 All the datasets were imported from PORDATA, a project that agregates several indicators from other sources, as well as EURONEXT Lisbon, for all the information regarding EDP stock information. 
 
 [PORDATA](https://www.pordata.pt/Portugal)
-[EURONEXT Lisbon]
+[EURONEXT Lisbon](https://live.euronext.com/pt/product/equities/PTEDP0AM0009-XLIS)
 
 
 <a name="workflow"></a>
@@ -71,6 +71,6 @@ In this project we applied divided the work between the team members in order to
 
 ## Links
 [Inês Garcia Repository](https://github.com/Inrx)    
-[Ana Sousa Repository](https://github.com/sofia-sousa)   
+[Sofia Sousa Repository](https://github.com/sofia-sousa)   
 [Tableau Dashboard](https://github.com/Inrx/week-4-project/blob/642da30fd004cab10b15d6d6a6289680b015fc39/Public%20Presentation.pdf)  
 [Trello](https://trello.com/b/dV3yxotJ/week-4-project) 
