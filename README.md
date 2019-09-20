@@ -48,7 +48,7 @@ After the initial analysis of the data available other two hypothesis arose:
 ## Dataset
 All the datasets were imported from PORDATA, a project that agregates several indicators from other sources, as well as EURONEXT Lisbon, for all the information regarding EDP stock information. 
 
-[PORDATA](https://www.pordata.pt/Portugal)
+[PORDATA](https://www.pordata.pt/Portugal)  
 [EURONEXT Lisbon](https://live.euronext.com/pt/product/equities/PTEDP0AM0009-XLIS)
 
 
