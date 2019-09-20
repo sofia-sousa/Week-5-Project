@@ -4,11 +4,11 @@
 ## How will global warming impact business and companies?
 
 *By:
-Inês Garcia
+Inês Garcia  
 Sofia Sousa*
 
-*Data Squad #21
-Lisbon
+*Data Squad #21  
+Lisbon  
 September 2019*
 
 ## Content
@@ -35,7 +35,7 @@ The folder 'data' has all the datasets used, the folder Work notebooks has the w
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-Overall we intended to understand if countries are complying with the 14th SGD: Life Below Water. 
+Overall we intended to understand how climate event impact business, in particular energy companies.
 
 After the initial analysis of the data available other two hypothesis arose:
 1. What is the impact of drought in energy production
@@ -48,8 +48,8 @@ After the initial analysis of the data available other two hypothesis arose:
 ## Dataset
 All the datasets were imported from PORDATA, a project that agregates several indicators from other sources, as well as EURONEXT Lisbon, for all the information regarding EDP stock information. 
 
-[PORDATA](https://www.pordata.pt/Portugal)
-[EURONEXT Lisbon]
+[PORDATA](https://www.pordata.pt/Portugal)  
+[EURONEXT Lisbon](https://live.euronext.com/pt/product/equities/PTEDP0AM0009-XLIS)
 
 
 <a name="workflow"></a>
