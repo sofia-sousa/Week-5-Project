@@ -71,6 +71,6 @@ In this project we applied divided the work between the team members in order to
 
 ## Links
 [Inês Garcia Repository](https://github.com/Inrx)    
-[Ana Sousa Repository](https://github.com/sofia-sousa)   
-[Tableau Dashboard](https://github.com/Inrx/week-4-project/blob/642da30fd004cab10b15d6d6a6289680b015fc39/Public%20Presentation.pdf)  
+[Sofia Sousa Repository](https://github.com/sofia-sousa)   
+[Tableau Story](https://public.tableau.com/profile/sofia5900#!/vizhome/Ironhack5/EnergyPT?publish=yes)  
 [Trello](https://trello.com/b/dV3yxotJ/week-4-project) 
